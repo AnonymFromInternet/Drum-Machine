@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/https,://github.com/AnonymFromInternet/Drum-Machine/static/css/main.9f5a08f2.css",
-    "main.js": "/https,://github.com/AnonymFromInternet/Drum-Machine/static/js/main.82272173.js",
-    "index.html": "/https,://github.com/AnonymFromInternet/Drum-Machine/index.html",
-    "main.9f5a08f2.css.map": "/https,://github.com/AnonymFromInternet/Drum-Machine/static/css/main.9f5a08f2.css.map",
-    "main.82272173.js.map": "/https,://github.com/AnonymFromInternet/Drum-Machine/static/js/main.82272173.js.map"
+    "main.css": "/Drum-Machine/static/css/main.9f5a08f2.css",
+    "main.js": "/Drum-Machine/static/js/main.82272173.js",
+    "index.html": "/Drum-Machine/index.html",
+    "main.9f5a08f2.css.map": "/Drum-Machine/static/css/main.9f5a08f2.css.map",
+    "main.82272173.js.map": "/Drum-Machine/static/js/main.82272173.js.map"
   },
   "entrypoints": [
     "static/css/main.9f5a08f2.css",
